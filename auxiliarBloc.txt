@@ -1,2 +1,3 @@
 add question section
 add js selections
+add show text event
